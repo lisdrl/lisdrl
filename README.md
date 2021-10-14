@@ -1,9 +1,9 @@
 <img align="center" alt="background" src="https://scontent.fcgh8-1.fna.fbcdn.net/v/t1.6435-9/244755362_1654280941435013_2689585262109950170_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeF3RWrFuyahGJZutNXd3VP_pJQwp5Ljy7KklDCnkuPLsuCDTJLX5Ia0FtXfJLok1LlvPrlpcQvZgQCwzJxj8UJo&_nc_ohc=6ee3LbesDw4AX-KE-Va&tn=mafkCu7G1P-7q46Q&_nc_ht=scontent.fcgh8-1.fna&oh=75170d8c89a609cef11d7160522ceddb&oe=618E1F81">
 
 ### SOBRE MIM:
-- 🎓 Formada em Letras (Português/Inglês) - USP
 - 📖 Cursando Computação - UNIVESP
 - 📔 Cursando Desenvolvimento de Software - Cubos Academy
+- 🎓 Formada em Letras (Português/Inglês) - USP
 
 <br>
 
@@ -36,30 +36,3 @@
 </div>  
 
 <br>
-
-  
-
-
-
-<!-- ### Hi there 👋 -->
-
-
-
-
-
-
-
-<!--
-**lisdrl/lisdrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
