@@ -1,12 +1,11 @@
 <img align="center" alt="background" src="https://scontent.fcgh8-1.fna.fbcdn.net/v/t1.6435-9/244755362_1654280941435013_2689585262109950170_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeF3RWrFuyahGJZutNXd3VP_pJQwp5Ljy7KklDCnkuPLsuCDTJLX5Ia0FtXfJLok1LlvPrlpcQvZgQCwzJxj8UJo&_nc_ohc=6ee3LbesDw4AX-KE-Va&tn=mafkCu7G1P-7q46Q&_nc_ht=scontent.fcgh8-1.fna&oh=75170d8c89a609cef11d7160522ceddb&oe=618E1F81">
 
-### SOBRE MIM:
-- 📖 Cursando Computação - UNIVESP
-- 📔 Cursando Desenvolvimento de Software - Cubos Academy
-- 🎓 Formada em Letras (Português/Inglês) - USP
-
+<div align="justify"><br>
+Meu nome é Lisandre Andreolo Darioli, sou desenvolvedora full-stack júnior e atualmente curso <b>Computação</b> na UNIVESP e <b>Desenvolvimento de Software</b> na Cubos Academy, além de ser formada em <b>Letras (Português/Inglês)</b> pela USP e ter atuado por anos como professora. <br><br>
+Quando adolescente, eu já gostava de aprender as coisas por conta própria e brincar de alterar o layout dos meus blogs, mas, como muitas meninas, não achava que programação poderia ser pra mim. Essa vontade ficou adormecida em mim até que, no fim de 2019, precisei abrir meu notebook para consertá-lo e pensei "se eu consegui fazer isso, o que mais será que consigo? Por que não tentar aprender a programar?" e foi o que fiz. Me encontrei na programação, que une duas das coisas que mais gosto de fazer: aprender língua(gens) e resolver problemas.
+</div>
 <br>
-
+<br>
 <div>
   <a href="https://www.linkedin.com/in/lisandre-darioli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:lisandre.darioli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
