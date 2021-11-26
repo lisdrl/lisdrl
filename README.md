@@ -1,7 +1,7 @@
 <img align="center" alt="background" src="https://cdn.wallpapersafari.com/71/12/Geivtk.jpg">
 
 <div align="justify"><br>
-Meu nome é Lisandre Andreolo Darioli, sou desenvolvedora full-stack júnior e atualmente curso <b>Computação</b> na UNIVESP e <b>Desenvolvimento de Software</b> na Cubos Academy, além de ser formada em <b>Letras (Português/Inglês)</b> pela USP e ter atuado por anos como professora. <br><br>
+Sou desenvolvedora fullstack júnior e atualmente curso <b>Computação</b> na UNIVESP e <b>Desenvolvimento de Software</b> na Cubos Academy, além de ser formada em <b>Letras (Português/Inglês)</b> pela USP e ter atuado por anos como professora. <br><br>
 Quando adolescente, eu já gostava de aprender as coisas por conta própria e brincar de alterar o layout dos meus blogs, mas, como muitas meninas, não achava que programação poderia ser pra mim. Essa vontade ficou adormecida em mim até que, no fim de 2019, precisei abrir meu notebook para consertá-lo e pensei "se eu consegui fazer isso, o que mais será que consigo? Por que não tentar aprender a programar?" e foi o que fiz. Me encontrei na programação, que une duas das coisas que mais gosto de fazer: aprender língua(gens) e resolver problemas.
 </div>
 <br>
