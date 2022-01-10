@@ -1,7 +1,7 @@
 <img align="center" alt="background" src="https://cdn.wallpapersafari.com/71/12/Geivtk.jpg">
 
 <div align="justify"><br>
-Sou desenvolvedora fullstack júnior e atualmente curso <b>Computação na UNIVESP</b> e <b>Desenvolvimento de Software na Cubos Academy</b>, além de ser formada em <b>Letras (Português/Inglês) pela USP</b> e ter atuado por anos como professora. <br><br>
+Sou desenvolvedora fullstack júnior e atualmente curso <b>Computação na UNIVESP</b>, além de ter cursado <b>Desenvolvimento de Software na Cubos Academy</b> e ser formada em <b>Letras (Português/Inglês) pela USP</b>, tendo atuado por anos como professora. <br><br>
 ---<br><br>
 Quando adolescente, eu já gostava de aprender as coisas por conta própria e brincar de alterar o layout dos meus blogs, mas, como muitas meninas, não achava que programação poderia ser pra mim. <br><br>
 Essa vontade ficou adormecida em mim até que, no fim de 2019, precisei abrir meu notebook para consertá-lo e pensei "se eu consegui fazer isso, o que mais será que consigo? Por que não tentar aprender a programar?" e foi o que fiz. <br><br>
